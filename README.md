@@ -8,13 +8,11 @@ Visualize how classic sorting algorithms work through real-time animations and i
 
 ## 📸 Preview
 
-> Add your screenshot inside:
-
 
 screenshots/sorting-visualizer.png
 
+![Sorting Visualizer](./screenshots/sorting-visualizer.png)
 
-![Sorting Visualizer]("C:\Users\lenovo\Pictures\Screenshots\Sorting Visualizer.png")
 
 
 ## ✨ Features
