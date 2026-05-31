@@ -1,60 +1,105 @@
-🚀 Sorting Visualizer
+# 🚀 Sorting Visualizer
 
-An interactive Sorting Algorithm Visualizer built with React, Vite, and Tailwind CSS. This project helps students and developers understand how classic sorting algorithms work through real-time animations and visual feedback.
+An interactive Sorting Algorithm Visualizer built with **React**, **Vite**, and **Tailwind CSS**.
 
-✨ Features
-📊 Real-time sorting animations
-🎛 Adjustable array size
-⚡ Adjustable sorting speed
-🔄 Random array generation
-🎨 Modern responsive UI
-📈 Visual comparison of sorting techniques
-🧠 Implemented Algorithms
-Bubble Sort
-Insertion Sort
-Selection Sort
-Merge Sort
-Quick Sort
-🛠 Tech Stack
-React.js
-Vite
-Tailwind CSS
-JavaScript (ES6+)
-Git & GitHub
+Visualize how classic sorting algorithms work through real-time animations and interactive controls.
 
-📷 Preview
+---
 
-![Sorting Visualizer](./screenshots/sorting-visualizer.png)
+## 📸 Preview
+
+> Add your screenshot inside:
 
 
-🚀 Getting Started
-Clone Repository
+screenshots/sorting-visualizer.png
+
+
+![Sorting Visualizer]("C:\Users\lenovo\Pictures\Screenshots\Sorting Visualizer.png")
+
+
+## ✨ Features
+
+* 🔄 Random Array Generation
+* ⚡ Adjustable Sorting Speed
+* 📊 Adjustable Array Size
+* 🎨 Modern Dark UI
+* 📱 Responsive Design
+* 🎬 Real-Time Animations
+
+---
+
+## 🧠 Algorithms Implemented
+
+* Bubble Sort
+* Insertion Sort
+* Selection Sort
+* Merge Sort
+* Quick Sort
+
+---
+
+## 🛠 Tech Stack
+
+* React.js
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
+* Git
+* GitHub
+
+---
+
+## 🚀 Getting Started
+
+### Clone Repository
+
+```bash
 git clone https://github.com/codersayan/sorting-visualizer.git
-Navigate to Project
+```
+
+### Navigate to Project
+
+```bash
 cd sorting-visualizer
-Install Dependencies
+```
+
+### Install Dependencies
+
+```bash
 npm install
-Start Development Server
+```
+
+### Start Development Server
+
+```bash
 npm run dev
+```
 
 Open:
 
+```txt
 http://localhost:5173
-🎯 Learning Outcomes
+```
 
+---
+
+## 🎯 Learning Outcomes
 
 This project helped me strengthen:
 
-Data Structures & Algorithms
-React State Management
-Asynchronous JavaScript
-UI Animation Logic
-Component-Based Architecture
-Frontend Development Workflow
-Git/GitHub Collaboration
+* Data Structures & Algorithms
+* React State Management
+* Asynchronous JavaScript
+* UI Animation Logic
+* Component-Based Architecture
+* Frontend Development Workflow
+* Git & GitHub
+
+---
+
+## 📂 Project Structure
 
 
-📂 Project Structure
 sorting-visualizer/
 │
 ├── public/
@@ -70,23 +115,30 @@ sorting-visualizer/
 └── README.md
 
 
-🔮 Future Enhancements
-Heap Sort
-Radix Sort
-Shell Sort
-Complexity Analysis Panel
-Comparison Counter
-Swap Counter
-Sound Effects
-Dark/Light Theme Toggle
-Algorithm Explanation Section
+---
 
-👨‍💻 Author
+## 🔮 Future Enhancements
 
-Sayan Ghosal
+* Heap Sort
+* Radix Sort
+* Shell Sort
+* Complexity Analysis Panel
+* Comparison Counter
+* Swap Counter
+* Sound Effects
+* Light/Dark Theme Toggle
+* Algorithm Information Panel
+
+---
+
+## 👨‍💻 Author
+
+**Sayan Ghosal**
 
 MSc Computer Science | GATE CSE Qualified | MERN Stack Developer | AI/ML Enthusiast
 
 GitHub: https://github.com/codersayan
+
+---
 
 ⭐ If you found this project useful, consider giving it a star!
