@@ -99,7 +99,7 @@ This project helped me strengthen:
 
 ## 📂 Project Structure
 
-
+```txt
 sorting-visualizer/
 │
 ├── public/
@@ -113,7 +113,7 @@ sorting-visualizer/
 ├── package.json
 ├── vite.config.js
 └── README.md
-
+```
 
 ---
 
