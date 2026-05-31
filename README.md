@@ -26,6 +26,7 @@ Git & GitHub
 
 ![Sorting Visualizer](./screenshots/sorting-visualizer.png)
 
+
 🚀 Getting Started
 Clone Repository
 git clone https://github.com/codersayan/sorting-visualizer.git
@@ -41,6 +42,7 @@ Open:
 http://localhost:5173
 🎯 Learning Outcomes
 
+
 This project helped me strengthen:
 
 Data Structures & Algorithms
@@ -50,6 +52,8 @@ UI Animation Logic
 Component-Based Architecture
 Frontend Development Workflow
 Git/GitHub Collaboration
+
+
 📂 Project Structure
 sorting-visualizer/
 │
@@ -64,6 +68,7 @@ sorting-visualizer/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
 
 🔮 Future Enhancements
 Heap Sort
